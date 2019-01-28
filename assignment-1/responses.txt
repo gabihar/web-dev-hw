@@ -1,0 +1,24 @@
+5. How is the web different from the internet? The web connects information while the internet connects participants. 
+The web is a solvent, it makes materials widely accessible and available. The internet is a wire buried in the ground. 
+The internet is made up of incredibly large numbers of independently operated networks.
+
+6. How does the internet work? Again, the internet is a wire buried in the ground. 
+Two computers connected to this wire can communicate. The computers we use are called clients and they are connected to the internet inderectly through an internet service provider. 
+The stuff you send over the internet is delivered in packets and when it reaches its destination, the packets are reassembled in their original order. 
+Eveything has an IP address. Routers direct your packets around the internet helping each packet get one step closer to its destination. 
+Each packet is like a piece of candy wrapped in several layers. The first layer is your computers IP address, your computer sends the first packet to the router which adds its own IP address. 
+Each time the packet reaches a new router, another layer is added until it reaches the server then when the server sends back information it creates packets with an identical wrapping. 
+As a packet makes its way over the internet back to your computer. 
+Each router unwraps a layer to discover where to send the packet next until it reaches your computer. 
+
+7. What is the directory, and what is its relationship to files? 
+A directory is a nesting of folders and file systems. Files are organized into groups which are the folders. 
+So the relationship between a directory and files is that the files are stored in the directory. 
+
+8. Why is using a VCS beneficial? 
+One because of tracking changes. This is when a developer can make changes to a file at any time and track those changes. 
+Two because of revert back. This is when a developer can make changes, but if they don't like the changes they can revert back to the original version. 
+Three because of share and collaborate. This is when any associated parties of the files can see changes and fix them. 
+
+9. State at least one thing you found interesting. 
+I never knew that the internet and the web were different. I feel really uneducated by saying that. 
