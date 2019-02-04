@@ -1,0 +1,8 @@
+My Responses:
+6. One way data travels on the internet is by packets. Each packet has the internet address of where it came from and where it's going. Routers act like traffic managers to keep the packets moving smoothly. Each packet chooses the cheapest available path for each piece of data.
+
+7. The relationship between an IP address and the DNS is the IP address is just a number that's unique to each device on the network. The IP address has the country/network, region/network, subnetwork, and device. The Domain Name System associates names with the corresponding addresses. Your computer uses DNS to look up the names and get associated IP adresses which is used to connect your computer to the destination on the internet.
+
+8. A cookie is what websites use to remember who you are. They are like ID numbers.
+
+9. The three basic parts of a URL are protocol, domain, and path. 
