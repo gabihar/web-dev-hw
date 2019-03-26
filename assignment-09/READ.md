@@ -1,12 +1,8 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta name="author" content="Gabi Harrington">
-    <meta name="description" content="decades">
-    <meta name="keywords" content="HTML">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" type="text/css" href="./css/style.css" />
-<title>The 1960's</title>
-</head>
-<body>
-<div class
+# Assignment 9
+## Gabi Harrington
+
+13. Universal selectors match a single element, ID selectors match whatever element is associated with "id," Class selectors match whatever element is associated with "class," and Element selectors select all elements associated with the element chosen.
+
+14. I chose a lot of colors, but three of them are yellow, blue, and green. I used background color codes and font color codes.
+
+15. The style sheet confused me, I'm not sure if I did it right! I need help with it! I added the 4 main document elements, the 4 meta elements, a relative URL, divs, two image elements, the style.css, a background color property, the size, opacity, and position of an element, changed the color of some text, and wrote a CSS comment. 
