@@ -1,3 +1,37 @@
-.p1{
+
+@import url('https://fonts.googleapis.com/css?family=Dokdo');
+
+p{
   font-family: sans-serif;
+}
+.center {
+  margin: auto;
+  width: 60%;
+
+  }
+
+  .poem{
+    border: 3px solid;
+    padding: 10px;
+    background-color:white
+  }
+
+h2 {
+  color: white;
+  font-family: 'Open Sans Condensed', cursive;
+}
+
+body {
+
+background: url(http://wallpapertop.net/wp-content/uploads/2017/10/3401.jpg); background-size: 100%;
+}
+
+a {
+  background-color:white;
+  padding: 10px;
+  color: gold
+}
+
+a:hover {
+  color: purple;
 }
