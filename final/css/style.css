@@ -1,28 +1,23 @@
-h1 {
-  color:gray;
-  background-color: yellow;
-}
-
 body {
-  background: url(http://hdwpro.com/wp-content/uploads/2016/04/Sports-Basketball-Wallpaper.jpg);
+  background: url(http://stillisstillmoving.com/wp-content/uploads/2012/05/john-mellencamp.jpg);
   background-size: 100%;
 }
-div {
-  color:gray;
-  background-color: aqua;
-}
+
 p {
-  color:gray;
+  color: pink;
+  background-color: gray;
+  text-align: center;
+  font-family: cursive;
 }
-p{
-  font-family: sans-serif;
+
+
+h3{
+  text-align: center;
 }
-body{
-  font-family: serif;
-}
-nav:hover {
-  background-color: yellow;
-}
+ h1{
+   font-family: Verdana;
+ }
+
 header {
   background-color: black;
   font-family: serif;
